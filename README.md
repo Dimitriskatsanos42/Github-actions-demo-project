@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29899138/README.md)
 # GitHub Actions Demo Project
 
 ![CI](https://github.com/Dimitriskatsanos42/Github-actions-demo-project/actions/workflows/ci.yml/badge.svg)
